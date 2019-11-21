@@ -119,6 +119,7 @@ li a.active {
     color: #fff;
     text-transform: uppercase;
     margin-bottom: 0;
+    text-shadow: -5px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
 }
 .carousel-caption p {
     font-size: 40px;
@@ -126,6 +127,7 @@ li a.active {
     text-transform: uppercase;
     font-weight: bold;
     margin-top: 0;
+    text-shadow: -3px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
 }
 .carousel-caption button {
     width: 240px;
